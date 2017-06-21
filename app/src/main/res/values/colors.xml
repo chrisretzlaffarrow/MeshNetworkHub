@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorCoorpGreen">#84C361</color>
+    <color name="colorCoorpDarkGray">#717174</color>
+    <color name="colorCoorpGray">#BEC0C2</color>
+    <color name="colorCoorpBlue">#00B7FF</color>
+    <color name="colorCoorpLightBlue">#8BD3F5</color>
+    <color name="colorCoorpOrange">#D14124</color>
+</resources>
